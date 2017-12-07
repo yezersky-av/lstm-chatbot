@@ -1,0 +1,15 @@
+.idea
+
+*.hot-update.js
+*.hot-update.json
+*.map
+node_modules/
+bundle.js
+package-lock.json
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.pid
+*.seed
+*.pid.lock
